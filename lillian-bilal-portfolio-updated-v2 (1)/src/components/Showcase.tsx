@@ -22,9 +22,9 @@ const filesByFolder: Record<string, string[]> = {
     "IMG_2681.webp", "IMG_2917 - Copy.jpeg", "IMG_2683.webp", "IMG_2977.jpeg", "IMG_3015.jpeg", "57e5a318-b472-4b5f-aec4-449589b1a64e.jpeg",
   ],
   "book-covers": [
-    "IMG_2952.jpeg", "IMG_0114.jpeg", "IMG_0584.jpeg", "IMG_3112.jpeg", "IMG_3027.jpeg", "IMG_0831 (1).png",
-    "IMG_0581.jpeg", "IMG_2373.jpeg", "IMG_2469.jpeg", "IMG_0585.jpeg", "IMG_3011.jpeg", "IMG_0110.jpeg",
-    "IMG_0113.jpeg", "IMG_0588.jpeg", "IMG_2377.jpeg", "IMG_2476.jpeg", "IMG_2371.jpeg", "IMG_1227.png", "IMG_2372.jpeg", "IMG_0577.jpeg",
+    "IMG_2952.jpeg", "IMG_0114.jpeg", "IMG_3112.jpeg", "IMG_0831 (1).png", "Front Cover 2 jpeg.jpeg", 
+    "IMG_0581.jpeg", "IMG_2469.jpeg", "IMG_3011.jpeg" , "WhatsApp Image 2026-10-19 at 7.44.04 PM.jpeg",
+    "IMG_0113.jpeg", "IMG_0588.jpeg", "IMG_2377.jpeg", "IMG_2476.jpeg", "IMG_2372.jpeg", "IMG_0577.jpeg",
   ],
   "character-designs": [
     "IMG_1832.jpeg", "IMG_1808.jpeg", "IMG_1948.jpeg", "IMG_2094.jpeg", "IMG_1974.jpeg", "bMmxvm.png", "ZEtrKo.jpeg",
