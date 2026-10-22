@@ -1,0 +1,4 @@
+[build]
+  base = "lillian-bilal-portfolio-updated-v2 (1)"
+  command = "npm ci --include=dev && npm run build"
+  publish = "dist"
